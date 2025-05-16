@@ -1,0 +1,13 @@
+numpy
+pandas
+matplotlib
+opencv-python
+tensorflow
+keras
+sounddevice
+soundfile
+librosa
+scipy
+transformers
+torch
+SpeechRecognition
