@@ -1,3 +1,4 @@
+Timestamp,FaceEmotion,VoiceEmotion,TextSentiment,Transcript
 2025-05-08 12:38:33,Excited,Excited,Excited,"hello hello"
 2025-05-08 12:41:26,Excited,Excited,Excited,"I am happy"
 2025-05-08 12:45:50,Excited,Confused,Frustrated,"I am sitting together"
@@ -10,3 +11,4 @@
 2025-05-16 23:42:16,Excited,Neutral,Frustrated,"(unrecognized)"
 2025-05-16 23:51:39,Neutral,Neutral,Excited,"hello hello hello"
 2025-05-16 23:53:15,No Face,Neutral,Excited,"I am happy"
+2025-05-17 12:43:13,Excited,Neutral,Excited,"yes it's doing great"
